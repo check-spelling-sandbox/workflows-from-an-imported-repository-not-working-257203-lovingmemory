@@ -2,6 +2,7 @@
 I originally built this as a central place people could go to find out about funeral arrangements for my mom. I have open sourced it in the hope I hope someone else in a similar situation is able to find it useful.
 
 
+
 * [demo.lovingmemory.link](https://demo.lovingmemory.link)
 * [lynhunt.lovingmemory.link](https://lynhunt.lovingmemory.link)
 
